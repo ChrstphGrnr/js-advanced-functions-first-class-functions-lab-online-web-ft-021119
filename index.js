@@ -1,6 +1,6 @@
 // Code your solution in this file!
 
-function returnFirstTwoDrivers() {
+function returnFirstTwoDrivers(driversArray) {
   const drivers = function (driversArray) {
     return driversArray[0], driversArray[1];
   }
