@@ -8,3 +8,5 @@ const returnFirstTwoDrivers = function (driversArray) {
 const returnLastTwoDrivers = function (driversArray) {
   return driversArray.slice(-2)
 }
+
+const 
