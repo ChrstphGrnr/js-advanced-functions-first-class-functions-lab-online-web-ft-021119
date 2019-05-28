@@ -6,5 +6,5 @@ const returnFirstTwoDrivers = function (driversArray) {
 
 
 const returnLastTwoDrivers = function (driversArray) {
-  return driversArray.slice(-1,2)
+  return driversArray.slice(-2)
 }
